@@ -21,6 +21,7 @@ nav{
 	justify-content: space-around;
 	align-items: center;
   font-family:helvetica;
+	text-decoration: none;
 }
 
 .links{
